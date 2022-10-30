@@ -1,0 +1,83 @@
+%PDF-1.2 
+1 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+/PageMode /UseNone
+/PageLayout /SinglePage
+>>
+endobj
+2 0 obj
+<<
+/Producer ()
+/Author ()
+/CreationDate (D:20220107215740)
+/Creator (Free PDF Editor \(FreePDFEditor.net\))
+/Keywords ()
+/Subject ()
+/Title ()
+/ModDate (D:20220107215740)
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R ]
+/Count 1
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 595 841 ]
+/Resources <<
+/Font <<
+/F0 6 0 R
+>>
+/XObject <<
+>>
+/ProcSet [/PDF /Text /ImageC ]
+>>
+/Contents 5 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10
+/Filter []
+>>
+stream
+/F0 10 Tf
+
+endstream
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+/BaseFont /Helvetica
+/Name /F0
+>>
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000011 00000 n
+0000000111 00000 n
+0000000313 00000 n
+0000000378 00000 n
+0000000567 00000 n
+0000000646 00000 n
+trailer
+<<
+/Size 7
+/Root 1 0 R
+/Info 2 0 R
+>>
+startxref
+792
+%%EOF
